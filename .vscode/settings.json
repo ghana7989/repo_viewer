@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/auth_failure.freezed": true,
+    "**/auth_failure.freezed.*": true
+  }
+}
