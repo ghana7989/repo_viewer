@@ -1,4 +1,5 @@
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+// ignore: implementation_imports
 import 'package:oauth2/src/credentials.dart';
 import 'package:repo_viewer/auth/infrastructure/credential_storage/credential_storage.dart';
 
